@@ -27,13 +27,13 @@ Docelowo aplikacja ma pomagać w analizie zachowań crewmatów i identyfikacji i
 
 ## 📅 Roadmapa
 
-### Faza 1: Prototyp ręczny (DONE/IN PROGRESS)
+### Faza 1: Prototyp ręczny (W TRAKCIE)
 
 - [x] Pobieranie i wyświetlanie statycznej mapy Among Us
 - [x] Ręczne logowanie pozycji graczy do pliku CSV
 - [x] Podstawowa wizualizacja trajektorii ruchu na mapie
 
-### Faza 2: Automatyczne przechwytywanie ruchu (W TRAKCIE)
+### Faza 2: Automatyczne przechwytywanie ruchu ()
 
 - [ ] Automatyczne robienie screenshotów w czasie gry
 - [ ] Wykrywanie pozycji graczy na podstawie kolorów (maskowanie HSV)
