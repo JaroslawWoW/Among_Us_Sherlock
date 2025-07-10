@@ -29,7 +29,8 @@ Docelowo aplikacja ma pomagać w analizie zachowań crewmatów i identyfikacji i
 
 ### Faza 1: Prototyp ręczny (W TRAKCIE)
 - [x] Uzbieranie grafik (Gracz, Czapki, Wdzianka, Google)
-- [ ] Generowanie random playerow i random rozmieszczenie na mapach - tworzenie zestawu danych dla YALO
+- [x] Generowanie random playerow
+- [ ] Kordynaty mapy + random rozmieszczenie na mapach (tworzenie zestawu danych dla YALO)
 - [ ] Pobieranie i wyświetlanie statycznej mapy Among Us
 - [ ] Ręczne logowanie pozycji graczy do pliku CSV
 - [ ] Podstawowa wizualizacja trajektorii ruchu na mapie
