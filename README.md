@@ -32,7 +32,7 @@ Docelowo aplikacja ma pomagać w analizie zachowań crewmatów i identyfikacji i
 - [x] Generowanie random playerow
 - [x] Kordynaty mapy
 - [x] Random rozmieszczenie na mapach (tworzenie zestawu danych dla YALO)
-- [ ] Doprawcowanie rozdzielczosc by odzwierciedlac te w grze
+- [x] Doprawcowanie rozdzielczosc by odzwierciedlac te w grze
 - [ ] Pobieranie i wyświetlanie statycznej mapy Among Us
 - [ ] Ręczne logowanie pozycji graczy do pliku CSV
 - [ ] Podstawowa wizualizacja trajektorii ruchu na mapie
