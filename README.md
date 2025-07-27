@@ -35,7 +35,7 @@ Docelowo aplikacja ma pomagać w analizie zachowań crewmatów i identyfikacji i
 - [x] Doprawcowanie rozdzielczosc by odzwierciedlac te w grze
 - [ ] Stworzenie DOBREGO modelu
 - Aktualnie issue z precision, recall 85% ale masa FP.
-- Za mało ramu namu na rozdzielczosc 1280, dlatego:
+- Za mało ramu RAMu na rozdzielczosc 1280, dlatego:
 -   a) selektywny crop
 -   b) zwiekszenie danych z 750, 250, 250  około 4/5 krotnie.
 -   c) Zmniejszenie rozdzielczosci screenow inputowych
