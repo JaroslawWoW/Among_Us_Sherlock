@@ -57,8 +57,3 @@ Docelowo aplikacja ma pomagać w analizie zachowań crewmatów i identyfikacji i
 - [ ] Automatyczne alerty i wsparcie podczas rozgrywki
 
 ---
-
-1. Zainstaluj wymagane biblioteki:
-
-```bash
-pip install opencv-python mss pandas matplotlib pyautogui
