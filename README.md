@@ -33,7 +33,9 @@ Docelowo aplikacja ma pomagać w analizie zachowań crewmatów i identyfikacji i
 - [x] Kordynaty mapy
 - [x] Random rozmieszczenie na mapach (tworzenie zestawu danych dla YALO)
 - [x] Doprawcowanie rozdzielczosc by odzwierciedlac te w grze
-- [ ] Stworzenie DOBREGO modelu
+- [x] Stworzenie modelu do rozpoznawania podczas poruszania sie (Overall View)
+- [ ] Stworzenie modelu do rozpoznawania podczas siedzenia na kamerach (Security cameras)
+- [ ] Stworzenie modelu do rozpoznawania Trybu Camera vs Overall 
 - [ ] Pobieranie i wyświetlanie statycznej mapy Among Us
 - [ ] Ręczne logowanie pozycji graczy do pliku CSV
 - [ ] Podstawowa wizualizacja trajektorii ruchu na mapie
